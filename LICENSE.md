@@ -1,4 +1,4 @@
-# 
+# automatic CCleaner PC版 扩展 是最佳 CCleaner PC版 扩展，集成 注册表清理 和 文件删除。安全、可靠、优化，性能最大化。
 
 
 
